@@ -1,0 +1,6 @@
+framework module Pods_Firebendr {
+  umbrella header "Pods-Firebendr-umbrella.h"
+
+  export *
+  module * { export * }
+}
